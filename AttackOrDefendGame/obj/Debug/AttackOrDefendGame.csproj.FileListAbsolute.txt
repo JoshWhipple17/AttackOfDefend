@@ -1,0 +1,7 @@
+c:\users\josh\documents\visual studio 2017\Projects\AttackOrDefendGame\AttackOrDefendGame\bin\Debug\AttackOrDefendGame.exe.config
+c:\users\josh\documents\visual studio 2017\Projects\AttackOrDefendGame\AttackOrDefendGame\bin\Debug\AttackOrDefendGame.exe
+c:\users\josh\documents\visual studio 2017\Projects\AttackOrDefendGame\AttackOrDefendGame\bin\Debug\AttackOrDefendGame.pdb
+c:\users\josh\documents\visual studio 2017\Projects\AttackOrDefendGame\AttackOrDefendGame\obj\Debug\AttackOrDefendGame.csprojResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2017\Projects\AttackOrDefendGame\AttackOrDefendGame\obj\Debug\AttackOrDefendGame.exe
+c:\users\josh\documents\visual studio 2017\Projects\AttackOrDefendGame\AttackOrDefendGame\obj\Debug\AttackOrDefendGame.pdb
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\AttackOrDefendGame\AttackOrDefendGame\obj\Debug\AttackOrDefendGame.csproj.CoreCompileInputs.cache
